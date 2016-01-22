@@ -11,6 +11,11 @@
  * [极客学院资源](http://wiki.jikexueyuan.com/)  值得常看。
  * [tensorflow-zh](https://github.com/jikexueyuanwiki/tensorflow-zh) TensorFlow 官方文档中文版。2015年11月9日，Google发布人工智能系统TensorFlow并宣布开源，同日，极客学院组织在线TensorFlow中文文档翻译。
  * [neural-networks-and-deep-learning-zh-cn](https://github.com/tigerneil/neural-networks-and-deep-learning-zh-cn) 神经网络与深度学习。
- * [Theano](https://github.com/Theano/Theano) ---[从Theano到Lasagne：基于Python的深度学习的框架和库](http://blog.csdn.net/huobing123456789/article/details/50520623)
+ * [Theano](https://github.com/Theano/Theano)  
+ * [从Theano到Lasagne：基于Python的深度学习的框架和库](http://blog.csdn.net/huobing123456789/article/details/50520623)
+ * [three.js](https://github.com/mrdoob/three.js) WebGL JavaScript 3D library.[Threejs基础教程](http://www.hewebgl.com/article/articledir/1).
+
+
+
 
 **邮箱：**  chairmanview@126.com
